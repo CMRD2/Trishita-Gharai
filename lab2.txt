@@ -1,0 +1,4 @@
+today i created programs on basic arithmetic operations.
+i learnt to create program by giving input.
+i learnt how to change a character input to an integer.
+i learnt to use if conditions by comparing numbers.
