@@ -1,0 +1,29 @@
+
+hi...! lets play rock paper scissors :D
+enter choice(rock-r,paper-p,scissor-s)-s
+r
+try
+0
+1
+enter choice(rock-r,paper-p,scissor-s)-r
+p
+try
+0
+2
+enter choice(rock-r,paper-p,scissor-s)-p
+r
+point
+1
+2
+enter choice(rock-r,paper-p,scissor-s)-s
+r
+try
+1
+3
+enter choice(rock-r,paper-p,scissor-s)-p
+r
+you lose
+
+icecream
+
+7
