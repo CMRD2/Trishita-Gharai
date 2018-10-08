@@ -1,3 +1,4 @@
+#ROCK PAPER SCISSOR
 print("hi...! lets play rock paper scissors :D")
 s1=0
 s2=0
